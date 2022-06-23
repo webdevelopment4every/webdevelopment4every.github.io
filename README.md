@@ -1,3 +1,1 @@
-#I love you
-Kenan xiyardi :))
-
+this page is for web development!
